@@ -1,0 +1,23 @@
+/*
+ *
+ */
+html {
+    font-family: "DejaVu Sans Mono", monospace;
+    font-size: 14px;
+    height: 100%;
+}
+body {
+    color: white;
+    background: radial-gradient(circle at right bottom, #220, #440 10%, #660 15%, #885 16%, #330 18%, #000 100%);
+}
+body.error {
+    color: black !important;
+    background: #f88 !important;
+}
+a {
+    color            : #b55;
+    text-decoration  : none;
+    font-size        : 0.9em;
+    font-weight      : bold;
+}
+
