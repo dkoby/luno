@@ -53,7 +53,6 @@ File names should be low case.
 
 
 Local (static) functions should separte file name with ***\_*** prefix.
-should have ***\_*** prefix.
 
     static int testrequest_getResult()
     {
