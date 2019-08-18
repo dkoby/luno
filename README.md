@@ -2,7 +2,7 @@
 Introduction.
 -------------
 
-Luno is single executable web-server.
+Luno is single-executable web-server.
 
 Main features.
 --------------
